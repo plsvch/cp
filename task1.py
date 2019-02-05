@@ -1,3 +1,4 @@
+#поиск сложноподчиненных предложений
 inwords=open('words.txt')
 inconst=open('const.txt')
 intext=open('text.txt')
